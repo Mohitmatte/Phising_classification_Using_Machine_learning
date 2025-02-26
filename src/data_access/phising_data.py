@@ -1,7 +1,7 @@
 import sys
 from typing import Optional, List
 
-from database_connect import mongo_operation as mongo
+#from database_connect import mongo_operation as mongo
 from pymongo import MongoClient
 import numpy as np
 import pandas as pd
